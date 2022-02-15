@@ -1,0 +1,17 @@
+.container{
+    background-color: #282c34;
+    width: 700px;
+    padding: 40px;
+    height: 600px;
+    color: white;
+    overflow: hidden;
+}
+.wrap{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    font-size: 14px;
+}

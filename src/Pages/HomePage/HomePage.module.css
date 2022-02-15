@@ -1,0 +1,17 @@
+.container{
+    width: 1690px;
+
+}
+.wrap{
+    height: auto;
+}
+.first{
+    margin-left: 20px;
+}
+.second{
+    margin-left: 20px;
+    display: flex;
+}
+.item{
+
+}

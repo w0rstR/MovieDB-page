@@ -1,0 +1,36 @@
+.container{
+    height: 100px;
+    width: 1670px;
+    background-color: #3e427d;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.swicher{
+    margin-right: 10px;
+}
+
+.title{
+    height: 100px;
+    width: 1600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.wrap{
+
+    height: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 10px;
+}
+.item{
+    font-size: 32px;
+    color: #327cde;
+    font-weight: bold;
+    font-family:cursive;
+}

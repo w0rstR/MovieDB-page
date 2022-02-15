@@ -1,0 +1,8 @@
+.description{
+    background-color: #6030c7;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    line-height: 20px;
+}
